@@ -15,6 +15,8 @@ import Membership from './components/membership/index'
 import ContactUs from './components/contact-us/index'
 import AboutUs from './components/about-us/index'
 
+import store from './redux/store'
+
 // resolve the issue that react react wont scroll page to top when navigating
 function _ScrollToTopOnMount() {
   useEffect(()=> {
@@ -28,7 +30,8 @@ const ScrollToTopOnMount = withRouter(_ScrollToTopOnMount)
 
 function App() {
   return (
-    <React.Fragment>
+    // <React.Fragment>
+    <Provider store={store}>
       <GlobalStyle />
       <BackTop />
       <Layout style={{background: "#ecf0f1"}}>
@@ -46,7 +49,8 @@ function App() {
           <Footer />
         </BrowserRouter>
       </Layout>
-    </React.Fragment>
+    </Provider>
+    // </React.Fragment>
   );
 }
 

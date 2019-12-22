@@ -1,0 +1,89 @@
+{
+    "message": true,
+    "data": [{
+            "title": "Movie",
+            "description": "hey", 
+            "ratings": "P",
+            "imgUrl": "https://classic.imgix.net/movies/thumbnails/../other/l0FATbzEOIDerPfjsxKP9YT8W4e.jpg?auto=compress,format&w=610&h=255&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00"],
+                "wednesday": ["08:00"],
+                "thursday": ["08:00"],
+                "friday": ["08:00"],
+                "saturday": ["08:00"],
+                "sunday": ["08:00"]
+            }
+        }, {
+            "title": "Movie",
+            "description": "hey", 
+            "ratings": "P",
+            "imgUrl": "https://classic.imgix.net/movies/thumbnails/../other/l0FATbzEOIDerPfjsxKP9YT8W4e.jpg?auto=compress,format&w=610&h=255&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00"],
+                "wednesday": ["08:00"],
+                "thursday": ["08:00"],
+                "friday": ["08:00"],
+                "saturday": ["08:00"],
+                "sunday": ["08:00"]
+            }
+        }, {
+            "title": "Movie",
+            "description": "hey", 
+            "ratings": "P",
+            "imgUrl": "https://classic.imgix.net/movies/thumbnails/../other/l0FATbzEOIDerPfjsxKP9YT8W4e.jpg?auto=compress,format&w=610&h=255&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00"],
+                "wednesday": ["08:00"],
+                "thursday": ["08:00"],
+                "friday": ["08:00"],
+                "saturday": ["08:00"],
+                "sunday": ["08:00"]
+            }
+        }, {
+            "title": "Movie",
+            "description": "hey", 
+            "ratings": "P",
+            "imgUrl": "https://classic.imgix.net/movies/thumbnails/../other/l0FATbzEOIDerPfjsxKP9YT8W4e.jpg?auto=compress,format&w=610&h=255&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00"],
+                "wednesday": ["08:00"],
+                "thursday": ["08:00"],
+                "friday": ["08:00"],
+                "saturday": ["08:00"],
+                "sunday": ["08:00"]
+            }
+        }, {
+            "title": "Movie",
+            "description": "hey", 
+            "ratings": "P",
+            "imgUrl": "https://classic.imgix.net/movies/thumbnails/../other/l0FATbzEOIDerPfjsxKP9YT8W4e.jpg?auto=compress,format&w=610&h=255&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00"],
+                "wednesday": ["08:00"],
+                "thursday": ["08:00"],
+                "friday": ["08:00"],
+                "saturday": ["08:00"],
+                "sunday": ["08:00"]
+            }
+        }, {
+            "title": "Movie",
+            "description": "hey", 
+            "ratings": "P",
+            "imgUrl": "https://classic.imgix.net/movies/thumbnails/../other/l0FATbzEOIDerPfjsxKP9YT8W4e.jpg?auto=compress,format&w=610&h=255&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00"],
+                "wednesday": ["08:00"],
+                "thursday": ["08:00"],
+                "friday": ["08:00"],
+                "saturday": ["08:00"],
+                "sunday": ["08:00"]
+            }
+        }
+    ]
+}

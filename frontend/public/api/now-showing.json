@@ -1,0 +1,61 @@
+{
+    "message": true,
+    "data": [{
+            "title": "Star Wars: The Rise of Skywalker",
+            "description": "The surviving Resistance faces the First Order once more as Rey, Finn and Poe Dameron's journey continues. With the power and knowledge of generations behind them, the final battle commences.", 
+            "ratings": "M",
+            "imgUrl": "https://classic.imgix.net/movies/other/gQ8v57tIDIpctD0zg3VDJGL2GjS.jpg?auto=compress,format&w=450&h=193&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["10:00", "11:00", "12:00", "13:10", "14:10"],
+                "tuesday": ["10:00", "11:00", "12:00", "13:10", "14:10"],
+                "wednesday": ["10:00", "11:00", "12:00", "13:10", "14:10"],
+                "thursday": ["10:00", "11:00", "12:00", "13:10", "14:10"],
+                "friday": ["10:00", "11:00", "12:00", "13:10", "14:10"],
+                "saturday": ["10:00", "11:00", "12:00", "13:10", "14:10"],
+                "sunday": ["10:00", "11:00", "12:00", "13:10", "14:10"]
+            }
+        }, {
+            "title": "Frozen 2",
+            "description": "Anna, Elsa, Kristoff, and Olaf are going far in the forest to learn the truth about an ancient mystery of their kingdom.", 
+            "ratings": "PG",
+            "imgUrl": "https://classic.imgix.net/movies/other/p2WSxG5ye9NYuyOCAbkCxRH65Um.jpg?auto=compress,format&w=450&h=193&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00", "9:00"],
+                "wednesday": ["08:00", "10:15"],
+                "thursday": ["08:00", "18:00"],
+                "friday": ["08:00", "20:00", "21:00"],
+                "saturday": ["11:15", "19:45"],
+                "sunday": ["17:00","18:00"]
+            }
+        }, {
+            "title": "Knives Out",
+            "description": "A detective and a trooper travel to a lush estate to interview the quirky relatives of a patriarch who died during his 85th birthday celebration.", 
+            "ratings": "M",
+            "imgUrl": "https://classic.imgix.net/movies/thumbnails/../other/l0FATbzEOIDerPfjsxKP9YT8W4e.jpg?auto=compress,format&w=610&h=255&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["10:30", "15:45", "18:25"],
+                "tuesday": ["08:00", "9:00"],
+                "wednesday": ["08:00", "10:15"],
+                "thursday": ["08:00", "18:00"],
+                "friday": ["08:00", "20:00", "21:00"],
+                "saturday": ["11:15", "19:45"],
+                "sunday": ["17:00","18:00"]
+            }
+        }, {
+            "title": "The Addams Family",
+            "description": "An animated version of Charles Addams' series of cartoons about a peculiar, ghoulish family.", 
+            "ratings": "PG",
+            "imgUrl": "https://classic.imgix.net/movies/other/nHZpVTiGLj0GXP3D9bFbmvzw73y.jpg?auto=compress,format&w=450&h=193&fit=crop&v=20191213", 
+            "timeslots": {
+                "monday": ["14:40", "15:20"],
+                "tuesday": ["08:00"],
+                "wednesday": ["08:00"],
+                "thursday": ["08:00"],
+                "friday": ["08:00"],
+                "saturday": ["08:00"],
+                "sunday": ["08:00"]
+            }
+        }
+    ]
+}
